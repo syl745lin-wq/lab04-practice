@@ -1,0 +1,92 @@
+Transaction_ID,Store_ID,Revenue,Units_Sold,unitunit_price,order_segment
+1001,Store_A,50.0,8,6.25,Low-Margin
+1003,Store_C,120.0,11,10.909090909090908,Standard Retail
+1004,Store_B,120.0,1,120.0,Standard Retail
+1005,Store_A,500.0,8,62.5,Bulk High-Value
+1006,Store_A,50.0,4,12.5,Low-Margin
+1007,Store_A,120.0,6,20.0,Standard Retail
+1008,Store_C,250.0,8,31.25,Standard Retail
+1009,Store_B,50.0,4,12.5,Low-Margin
+1010,Store_C,50.0,3,16.666666666666668,Low-Margin
+1011,Store_A,50.0,9,5.555555555555555,Low-Margin
+1013,Store_C,500.0,9,55.55555555555556,Bulk High-Value
+1014,Store_A,250.0,2,125.0,Standard Retail
+1015,Store_A,120.0,2,60.0,Standard Retail
+1016,Store_A,500.0,2,250.0,Standard Retail
+1017,Store_A,250.0,6,41.666666666666664,Standard Retail
+1018,Store_B,50.0,3,16.666666666666668,Low-Margin
+1019,Store_B,500.0,9,55.55555555555556,Bulk High-Value
+1020,Store_A,120.0,4,30.0,Standard Retail
+1021,Store_B,250.0,1,250.0,Standard Retail
+1022,Store_A,500.0,4,125.0,Standard Retail
+1023,Store_A,120.0,1,120.0,Standard Retail
+1024,Store_A,50.0,5,10.0,Low-Margin
+1025,Store_B,50.0,4,12.5,Low-Margin
+1026,Store_C,120.0,8,15.0,Standard Retail
+1027,Store_A,250.0,8,31.25,Standard Retail
+1028,Store_B,500.0,7,71.42857142857143,Bulk High-Value
+1029,Store_B,50.0,3,16.666666666666668,Low-Margin
+1030,Store_A,120.0,1,120.0,Standard Retail
+1031,Store_B,120.0,1,120.0,Standard Retail
+1032,Store_A,50.0,11,4.545454545454546,Low-Margin
+1033,Store_A,50.0,3,16.666666666666668,Low-Margin
+1036,Store_C,120.0,6,20.0,Standard Retail
+1037,Store_A,120.0,6,20.0,Standard Retail
+1038,Store_A,250.0,6,41.666666666666664,Standard Retail
+1039,Store_B,120.0,3,40.0,Standard Retail
+1040,Store_B,120.0,6,20.0,Standard Retail
+1041,Store_A,120.0,8,15.0,Standard Retail
+1042,Store_B,50.0,11,4.545454545454546,Low-Margin
+1043,Store_A,120.0,11,10.909090909090908,Standard Retail
+1045,Store_A,50.0,5,10.0,Low-Margin
+1046,Store_B,50.0,1,50.0,Low-Margin
+1047,Store_A,120.0,1,120.0,Standard Retail
+1048,Store_B,120.0,5,24.0,Standard Retail
+1049,Store_B,50.0,3,16.666666666666668,Low-Margin
+1050,Store_A,50.0,4,12.5,Low-Margin
+1052,Store_C,50.0,1,50.0,Low-Margin
+1054,Store_C,120.0,5,24.0,Standard Retail
+1055,Store_B,120.0,6,20.0,Standard Retail
+1057,Store_A,120.0,9,13.333333333333334,Standard Retail
+1058,Store_A,250.0,5,50.0,Standard Retail
+1059,Store_A,50.0,8,6.25,Low-Margin
+1060,Store_A,250.0,1,250.0,Standard Retail
+1061,Store_A,120.0,5,24.0,Standard Retail
+1062,Store_A,120.0,3,40.0,Standard Retail
+1063,Store_C,120.0,1,120.0,Standard Retail
+1064,Store_A,120.0,4,30.0,Standard Retail
+1065,Store_A,50.0,5,10.0,Low-Margin
+1066,Store_B,250.0,7,35.714285714285715,Standard Retail
+1067,Store_A,120.0,1,120.0,Standard Retail
+1068,Store_C,50.0,3,16.666666666666668,Low-Margin
+1069,Store_A,50.0,2,25.0,Low-Margin
+1071,Store_C,120.0,10,12.0,Standard Retail
+1072,Store_A,50.0,6,8.333333333333334,Low-Margin
+1073,Store_A,120.0,10,12.0,Standard Retail
+1074,Store_C,50.0,3,16.666666666666668,Low-Margin
+1075,Store_C,120.0,8,15.0,Standard Retail
+1076,Store_C,50.0,8,6.25,Low-Margin
+1077,Store_C,120.0,2,60.0,Standard Retail
+1078,Store_A,120.0,6,20.0,Standard Retail
+1079,Store_A,500.0,7,71.42857142857143,Bulk High-Value
+1080,Store_A,50.0,2,25.0,Low-Margin
+1081,Store_C,120.0,11,10.909090909090908,Standard Retail
+1082,Store_B,50.0,10,5.0,Low-Margin
+1083,Store_A,500.0,2,250.0,Standard Retail
+1084,Store_A,500.0,10,50.0,Bulk High-Value
+1085,Store_A,50.0,1,50.0,Low-Margin
+1086,Store_A,120.0,8,15.0,Standard Retail
+1087,Store_C,250.0,1,250.0,Standard Retail
+1088,Store_B,120.0,9,13.333333333333334,Standard Retail
+1089,Store_C,120.0,11,10.909090909090908,Standard Retail
+1090,Store_B,50.0,6,8.333333333333334,Low-Margin
+1091,Store_A,50.0,7,7.142857142857143,Low-Margin
+1092,Store_C,500.0,10,50.0,Bulk High-Value
+1093,Store_C,500.0,7,71.42857142857143,Bulk High-Value
+1094,Store_B,120.0,10,12.0,Standard Retail
+1095,Store_C,120.0,3,40.0,Standard Retail
+1096,Store_B,120.0,2,60.0,Standard Retail
+1097,Store_B,250.0,9,27.77777777777778,Standard Retail
+1098,Store_B,500.0,8,62.5,Bulk High-Value
+1099,Store_A,500.0,10,50.0,Bulk High-Value
+1100,Store_A,250.0,7,35.714285714285715,Standard Retail
