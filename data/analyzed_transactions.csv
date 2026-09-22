@@ -1,4 +1,4 @@
-Transaction_ID,Store_ID,Revenue,Units_Sold,unitunit_price,order_segment
+Transaction_ID,Store_ID,Revenue,Units_Sold,unit_price,order_segment
 1001,Store_A,50.0,8,6.25,Low-Margin
 1003,Store_C,120.0,11,10.909090909090908,Standard Retail
 1004,Store_B,120.0,1,120.0,Standard Retail

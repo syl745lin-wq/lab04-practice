@@ -8,7 +8,7 @@ data_dir = repo_dir / "data"
 
 df = pd.read_csv(data_dir / "clean_transactions.csv")
 
-df["unitunit_price"] = df["Revenue"] / df["Units_Sold"]
+df["unit_price"] = df["Revenue"] / df["Units_Sold"]
 
 conditions = [
     (df["Revenue"] >= 300) & (df["Units_Sold"] >= 5),
